@@ -497,6 +497,7 @@ code.highlighter-rouge {
   padding: 0.4rem 1rem;
   border-radius: 999px;
   transition: all 300ms ease-out;
+  text-decoration: none;
 }
 
 .btn.download:hover,.btn.download:focus  { 
