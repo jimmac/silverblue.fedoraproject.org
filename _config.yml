@@ -1,7 +1,7 @@
 # Site settings
 title: Fedora Silverblue
-baseurl: "/silverblue.fedoraproject.org/" # the subpath of your site, e.g. /blog/
-url: "https://jimmac.github.io/" # the base hostname & protocol for your site
+baseurl: "/silverblue.fedoraproject.org" # the subpath of your site, e.g. /blog/
+url: "https://jimmac.github.io" # the base hostname & protocol for your site
 sourceurl: "https://github.com/jimmac/silverblue.fedoraproject.org"
 description: "Immutable Fedora Operating System"
 issuesurl: "https://github.com/jimmac/silverblue.fedoraproject.org/issues"
