@@ -1,11 +1,5 @@
 /* 
-
-    OS Component Website
-    ====================
-    
-    shamelessy stolen CSS from systemd 
-    https://github.com/systemd/systemd/tree/main/docs
-    
+Fedora Silverblue
 */
 
 /* GNOME Color Palette */
@@ -56,19 +50,30 @@
   --dark3: rgb(61,56,70);
   --dark4: rgb(36,31,49);
   --dark5: rgb(0,0,0);
-  --primary-color: var(--green5); /* Set your project color */
+  --fedora-blue1: rgb(81,162,218);
+  --fedora-blue2: rgb(60,110,180);
+  --primary-color: var(--fedora-blue2); /* Set your project color */
   --borders: var(--light3);
 }
 
 /* Typography */
 
 @font-face {
-  font-family: 'Inter Var';
+  font-family: 'Inter';
   font-weight: 100 900;
   font-display: swap;
   font-style: oblique 0deg 10deg;
   src: url("fonts/Inter.var.woff2?v=3.19") format("woff2");
 }
+
+@font-face {
+  font-family: 'Montserrat';
+  font-weight: 100 900;
+  font-display: swap;
+  font-style: oblique 0deg 10deg;
+  src: url("fonts/Montserrat.var.woff2") format("woff2");
+}
+
 
 * {
   -moz-box-sizing: border-box;
@@ -79,20 +84,22 @@ html, body {
   margin: 0;
   padding: 0;
   font-size: 16px;
-  font-family: "Inter Var", sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 400;
   line-height: 1.6;
   scroll-behavior: smooth;
 }
 body {
-  color: #241f31;
-  background-color: #f6f5f4;
+  color: var(--dark5);
+  background-color: var(--light1);
   /* ⇩⇩ put footer at the bottom for short pages, such as the 404 ⇩⇩ */
   display: grid;
   min-height: 100vh;
   grid-template-rows: auto minmax(auto,1fr) auto; /* header, stuff, footer */
 }
 h1, h2, h3, h4, h5, h6 {
+  color: var(--fedora-blue1);
+  font-family: Montserrat;
   margin: 3rem 0 1rem;
   font-weight: 600;
   line-height: 1.25;
@@ -174,11 +181,12 @@ img {
 /* Singletons */
 #logo {
   display: block;
-  width: 251px; height: 26px;
+  width: 160px; height: 34px;
   background: url('assets/page-logo.svg') no-repeat center;
   padding: 5rem 0 3rem;
   margin: 0 auto;
   position: relative;
+  background-size: contain;
 }
   #logo a {
     display: block;

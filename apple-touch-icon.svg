@@ -5,8 +5,8 @@
    version="1.1"
    id="svg14"
    sodipodi:docname="apple-touch-icon.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   inkscape:export-filename="/var/home/jimmac/src/git/gnome/os-component-website/apple-touch-icon.png"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:export-filename="apple-touch-icon.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -52,33 +52,30 @@
      inkscape:current-layer="svg14"
      inkscape:document-rotation="0"
      inkscape:snap-object-midpoints="true"
-     inkscape:pagecheckerboard="1">
+     inkscape:pagecheckerboard="1"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid52"
        originx="-0.0087961219"
        originy="-0.0049772212" />
   </sodipodi:namedview>
-  <rect
-     y="1.219757e-09"
-     x="1.8816066e-09"
-     height="180"
-     width="180"
-     fill="#201a26"
-     stroke-width="0.08889"
-     id="rect2"
-     style="font-variation-settings:normal;vector-effect:none;fill:#26a269;fill-opacity:1;stroke-width:1.00001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-     rx="22" />
-  <rect
-     style="fill:#8ff0a4;stroke:none;stroke-width:0.999996;-inkscape-stroke:none;stop-color:#000000"
-     id="rect117-3"
-     width="64.918205"
-     height="129.83623"
-     x="25.154404"
-     y="25.469673" />
-  <path
-     style="fill:#8ff0a4;fill-opacity:1;stroke:none;stroke-width:0.999996px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 90.039182,90.484956 154.84573,25.088567 154.9912,155.30578 Z"
-     id="path1141-5"
-     sodipodi:nodetypes="cccc" />
+  <g
+     id="g360">
+    <rect
+       style="fill:#ffffff;stroke-width:0.953805;stop-color:#000000"
+       id="rect349"
+       width="130"
+       height="130"
+       x="19.991203"
+       y="29.995024"
+       rx="40"
+       ry="40" />
+    <path
+       id="path1616"
+       style="fill:#51a2da;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14968"
+       d="m 89.356873,1.25661 c -49.337954,0 -89.31771148,39.984507 -89.34988127,89.311402 h -0.01578785 v 69.162228 h 0.01578785 c 0.02367746,11.19843 9.09914767,20.26478 20.30326927,20.26478 h 0.09641 0.01587 68.969483 C 138.73614,179.96346 178.70389,139.98444 178.70389,90.645063 178.70396,41.284816 138.7144,1.25661 89.354096,1.25661 Z m 18.105207,36.78911 c 15.00691,0 29.17275,11.492174 29.17275,27.341053 0,1.469831 0.009,2.941162 -0.23155,4.60825 -0.41569,4.216744 -4.26883,7.24651 -8.46456,6.652056 -4.19571,-0.601396 -7.04269,-4.586038 -6.26648,-8.753797 0.0711,-0.47574 0.0964,-1.222701 0.0964,-2.506509 0,-8.985976 -7.35303,-12.455828 -14.30681,-12.455828 -6.9496,0 -13.210389,5.844626 -13.226988,12.455828 0.120112,7.647329 0,15.235627 0,22.867711 l 12.899168,-0.09643 c 10.06977,-0.208622 10.18396,14.962276 0.11618,14.885226 l -13.014873,0.0964 c -0.03156,6.15101 0.04742,5.03878 0.01578,8.13674 0,0 0.109058,7.52349 -0.115387,13.22697 -1.556676,16.75089 -15.819161,30.13681 -32.951917,30.13681 -18.159242,0 -33.125389,-14.84428 -33.125389,-33.04825 0.54528,-18.72722 15.476816,-33.454543 34.282274,-33.279652 l 10.489072,-0.07898 v 14.865942 l -10.489072,0.0964 h -0.05536 c -10.335522,0.30584 -19.189203,7.32601 -19.358489,18.39444 0,10.08516 8.146314,18.16303 18.259462,18.16303 10.096462,0 18.182316,-7.34813 18.182316,-18.14375 l -0.01578,-56.282818 c 0.0052,-1.044826 0.03949,-1.87477 0.154102,-3.027223 1.704933,-13.767694 14.021123,-24.25599 27.958011,-24.25599 z"
+       sodipodi:nodetypes="cccccscccccccscccsscccccccscccccccsccccc" />
+  </g>
 </svg>
