@@ -15,10 +15,7 @@ cd os-component-website
 bundle install
 ```
 
-- Edit the [Jekyll](https://jekyllrb.com/) config file --`_config.yml`.
-- Replace or edit all the graphics. I recommend using [Inkscape](https://inkscape.org). If you want to shave off some kB out of the SVGs, use [svgo](https://github.com/svg/svgo).
-
-- Test the site locally:
+Test the site locally:
 ```
 bundle exec jekyll s
 ```
