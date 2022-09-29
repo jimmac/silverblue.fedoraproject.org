@@ -493,13 +493,16 @@ code.highlighter-rouge {
   max-width: 8em;
   margin: 0 auto;
   font-size: 120%;
-  background-color: var(--blue4);
+  background-color: var(--fedora-blue2);
   padding: 0.4rem 1rem;
   border-radius: 999px;
-  transition: transform 300ms ease-out;
+  transition: all 300ms ease-out;
 }
 
-.btn.download:hover,.btn.download:focus  { transform: scale(1.05); }
+.btn.download:hover,.btn.download:focus  { 
+  transform: scale(1.05);
+  background-color: var(--fedora-blue1);
+}
 .btn.download:active { transform: scale(0.95); }
 
 .btn {

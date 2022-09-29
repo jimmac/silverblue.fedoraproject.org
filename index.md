@@ -3,7 +3,7 @@ layout: default
 ---
 ![Pixels](assets/splash.png){:.full.pixels}
 
-[Download](https://getfedora.org/en/workstation/download/){:.btn.download}
+[Download](https://getfedora.org/en/silverblue/download/){:.btn.download}
 
 # Fedora Silverblue
 ### The future of computing, today.
