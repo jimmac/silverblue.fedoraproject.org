@@ -1,10 +1,10 @@
 # Site settings
-title: website template
+title: Fedora Silverblue
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://fixme.org" # the base hostname & protocol for your site
-sourceurl: "https://github.com/jimmac/os-component-website"
-description: "OS Template FIXME"
-issuesurl: "https://github.com/jimmac/os-component-website/issues"
+url: "https://jimmac.github.io/silverblue.fedoraproject.org" # the base hostname & protocol for your site
+sourceurl: "https://github.com/jimmac/silverblue.fedoraproject.org"
+description: "Immutable Fedora Operating System"
+issuesurl: "https://github.com/jimmac/silverblue.fedoraproject.org/issues"
 permalink: /:title/
 
 # Build settings
