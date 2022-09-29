@@ -33,6 +33,10 @@ You can best discuss Silverblue in our [community](https://discussion.fedoraproj
 
 Silverblue is a work in progress. Join now and help us shape its future!
 
+## Talks & Blogposts
+
+A lot has been [written and presented](presentations) about Silverblue. 
+
 ## Solid Foundations
 
 Silverblue is built on a solid model that separates the immutable base OS from the applications and development environments.
