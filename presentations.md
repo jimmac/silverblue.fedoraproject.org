@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![Pixels](assets/talks.png){:.full.pixels}
+![Pixels](../assets/talks.png){:.full.pixels}
 
 ## Blog Posts
 
