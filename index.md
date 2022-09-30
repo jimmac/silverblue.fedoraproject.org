@@ -27,7 +27,7 @@ If you find a problem or want to suggest a feature, you can use the [issue track
 
 We've canceled IRC meetings in favor of discussiong things timezone-independently on the [forums](https://discussion.fedoraproject.org/tag/silverblue).
 
-Outside of the forums, you can always come by and chat about Silverblue in the `#silverblue` IRC channel on `Libera.Chat` or in `[#silverblue:fedoraproject.org](https://matrix.to/#/#silverblue:fedoraproject.org)` on Matrix.
+Outside of the forums, you can always come by and chat about Silverblue in the `#silverblue` IRC channel on `Libera.Chat` or in [`#silverblue:fedoraproject.org`](https://matrix.to/#/#silverblue:fedoraproject.org) on Matrix.
 
 You can best discuss Silverblue in our [community](https://discussion.fedoraproject.org/tag/silverblue).
 
